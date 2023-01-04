@@ -1,0 +1,3 @@
+nom: karen
+age: 25
+fav color: green
